@@ -1,0 +1,1 @@
+hier zijn de stappen om simpel react bootsrap op te zetten
