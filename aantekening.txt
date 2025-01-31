@@ -4,3 +4,24 @@ hier zijn de stappen om simpel react bootsrap op te zetten
 links: 
 - React-Bootstrap: https://react-bootstrap.netlify.app/docs/components/accordion
 - React-Router: https://reactrouter.com/start/library/installation
+
+
+Voorbeeld van een SEO plan:
+
+SEO-plan Cloud Nexus
+Toegepaste technieken
+Voor de SEO heb ik gebruik gemaakt van metatags op de index pagina. 
+Hier heb ik een aantal steek woorden voor gebruikt. 
+Ook hebben alle aangeleverde images een alt tag gekregen die het voor google makkelijk maakt de foto’s te lezen. 
+Ook zijn er interne links verwerkt in de pagina structuur. 
+Deze zorgen er voor dat google de structuur van de website zal begrijpen
+
+
+
+Advies
+Mijn advies voor een nog betere SEO is het investeren in backlinks. 
+Hier voor kan je een extern bedrijf in huren. 
+Deze zal links van de website op andere sites plaatsen en er voor zorgen dat het verkeer nog beter wordt.
+Ook raad ik aan en onderzoek te doen naar welke zoek woorden de doelgroep gebruikt. 
+En deze in de mete tags te verwerken.
+Ook is het handig de website te hosten op een SEO-vriendelijke URL.
